@@ -2,7 +2,11 @@
 <h3 align="center">🚀 Cybersecurity Enthusiast | 💻 Full Stack Learner | 🎯 Hackathon Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Supravat2021&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat2021" />
+  <img src="https://komarev.com/ghpvc/?username=Supravat2021&label=Profile%20views&color=0e75b6&style=flat-square" alt="Supravat2021" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Supravat2021&theme=tokyonight&column=7" alt="gh-trophy" /></a>
 </p>
 
 ---
@@ -39,15 +43,20 @@ Here are some of my highlighted works:
   A customizable password list generator designed for brute-force attack testing and ethical hacking use.  
   ⚠️ For educational purposes only.
 
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supravat2021&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Supravat's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Supravat2021&theme=tokyonight&hide_border=false&cache_seconds=1800" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supravat2021&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Supravat2021&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Supravat's GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Supravat2021&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supravat2021&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Supravat2021&theme=tokyo-night" width="100%" />
 </p>
 
 ---
@@ -56,15 +65,15 @@ Here are some of my highlighted works:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/supravatpaul2021" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/iamsupravat_2023" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:supravatpaul2021@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Supravat2021" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
